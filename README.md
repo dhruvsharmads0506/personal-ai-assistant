@@ -24,8 +24,19 @@ It provides a ChatGPT-inspired interface where users can interact with AI, uploa
 
 ## 🖥️ Application Preview
 
-![Personal AI Assistant](screenshots/home.png)
 
+
+### 1. AI Assistant
+![AI Assistant](Images/Screenshot%202026-11-17%20214502.png)
+
+### 2. Application Features
+![Application Features](Images/Screenshot%202026-11-17%20214525.png)
+
+### 3. Chat Interface
+![Chat Interface](Images/Screenshot%202026-11-17%20214625.png)
+
+### 4. n8n Automation Workflow
+![Main Chat Interface](Images/Screenshot%202026-11-17%20212731.png)
 
 ## ✨ Features
 
